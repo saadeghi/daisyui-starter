@@ -1,6 +1,8 @@
-## TailwindCSS + DaisyUI boilerplate
-##### using TailwindCSS JIT
-##### with `autoprefixer` and `cssnano` for production
+## TailwindCSS + DaisyUI boilerplate ##
+#### Using TailwindCSS JIT ####
+##### With `autoprefixer` and `cssnano` for production #####
+
+Demo: [https://daisyui-starter.netlify.app/](https://daisyui-starter.netlify.app/)
 
 ---
 

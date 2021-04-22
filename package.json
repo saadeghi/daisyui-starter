@@ -3,10 +3,10 @@
     "dev": "postcss node_modules/tailwindcss/tailwind.css -o output.css -w",
     "prod": "NODE_ENV=production postcss node_modules/tailwindcss/tailwind.css -o output.css"
   },
-  "dependencies": {
+  "devDependencies": {
     "autoprefixer": "^10.2.5",
     "cssnano": "^5.0.0",
-    "daisyui": "^0.15.1",
+    "daisyui": "^0.20.1",
     "postcss": "^8.2.8",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.1.1"
